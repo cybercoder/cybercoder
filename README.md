@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cybercoder
-- 👀 I’m interested in programming and computer networks.
+- 👀 I’m a software engineer.
 - 🌱 I’m currently learning about all things.
 - 📫 How to reach me : https://www.linkedin.com/in/cybercoder/
 
